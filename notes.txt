@@ -1,0 +1,2 @@
+igazából nem kell megírni a botot, hanem van egy developer oldala a discordnak, ahol elvileg bármilyen funckiót lehet neki beállítani.
+először elszórakozok azzal, aztán tudatom veled az esetleges eredményeket.
